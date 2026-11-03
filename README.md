@@ -37,4 +37,4 @@ Offshore or onshore hydrogen production? A critical analysis on costs and operat
 
 ## Licence
 
-Creative Commons licenses
+MIT
